@@ -1,2 +1,2 @@
 # design
-design sample
+design sample elements
